@@ -1,3 +1,4 @@
-grpcio
-pytz
-os
+grpcio==1.73.1
+grpcio-tools==1.73.1
+protobuf==6.31.1
+pytz==2024.1
